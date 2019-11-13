@@ -18,6 +18,8 @@ private void testMethod(){
         int i = 1 + 1 ;
         //Replaced the other line with this line
 
+    int ii = 2 + 2 ;
+
 
 }
 
